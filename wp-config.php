@@ -16,13 +16,13 @@
 
 // ** Ajustes de MySQL. Solicita estos datos a tu proveedor de alojamiento web. ** //
 /** El nombre de tu base de datos de WordPress */
-define('DB_NAME', 'heroku_4779bd2028528c4');
+define('DB_NAME', 'heroku_caf3d34a07718d1');
 
 /** Tu nombre de usuario de MySQL */
-define('DB_USER', 'be160de19b9f7b');
+define('DB_USER', 'b129f5a7efd879');
 
 /** Tu contraseña de MySQL */
-define('DB_PASSWORD', '79f168d5');
+define('DB_PASSWORD', '8f310b76');
 
 /** Host de MySQL (es muy probable que no necesites cambiarlo) */
 define('DB_HOST', 'us-cdbr-iron-east-01.cleardb.net');
